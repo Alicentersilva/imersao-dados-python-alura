@@ -29,3 +29,8 @@ Desenvolver um dashboard interativo para análise de dados salariais na área de
 * Pandas
 * Streamlit
 * Plotly Express
+
+## Aplicação Online
+
+Acesse o dashboard:
+https://imersao-dado-python-alura-2026.streamlit.app/
